@@ -1,2 +1,2 @@
 hugo
-cp -R /public/ ../dreamworks
+cp -R ./public/ ../dreamworks
